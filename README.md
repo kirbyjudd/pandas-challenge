@@ -18,4 +18,4 @@ Using python, pandas, and Jupyter Notebook, I merged the files into a single dat
 The main file for the analysis is called "PyCitySchools_main.ipynb" and is located in the PyCitySchools folder.
 
 # Written Report
-A written report of the analysis is included in a microsoft word doc called "pandas-challenge Written Report"
+A written report of the analysis is included in a microsoft word doc called "pandas-challenge Written Report.docx"
